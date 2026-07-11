@@ -1,0 +1,11 @@
+list=["c","d","a","a","b","b","a","d","c"]
+list.sort()
+print(list)
+list.count("a")
+list.count("b")
+list.count("c")
+list.count("d")
+print("no of students graded :",(list.count("a")))
+print("no of students graded :",(list.count("b")))  
+print("no of students graded :",(list.count("c")))
+print("no of students graded :",(list.count("d")))
