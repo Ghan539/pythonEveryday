@@ -1,0 +1,18 @@
+w="welcometowscubetech  "
+
+n=w.lower()
+u=w.upper()
+t=w.title()
+c=w.capitalize()
+f=w.find("c",2)
+a=w.isalpha()
+d=w.isdigit()
+n=w.isalnum()
+print(n)
+print(u)
+print(t)
+print(c)
+print(f)
+print(a)
+print(d)
+print(n)
